@@ -1,9 +1,6 @@
 # Warbler
 Warbler is a Twitter clone built using Flask, PostgreSQL and SQLAlchemy. 
 
-Some added features include: 
-* 
-
 ## Setup
 1. Clone or Fork this reposity
 2. Setup a virtual environment
